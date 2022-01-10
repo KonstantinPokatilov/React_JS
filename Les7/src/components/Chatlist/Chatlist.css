@@ -1,0 +1,11 @@
+.chats_list {
+    background-color: #82a2c7;
+    width: 300px;
+}
+
+.chat_item {
+    width: 100px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
