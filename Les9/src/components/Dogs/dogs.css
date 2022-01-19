@@ -1,0 +1,17 @@
+.dogs {
+    width: 500px;
+
+}
+
+.dogsImg {
+    width: 100%;
+
+}
+
+.blockDog {
+    height: 50px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
