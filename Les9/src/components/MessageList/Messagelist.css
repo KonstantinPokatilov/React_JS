@@ -1,0 +1,21 @@
+.valueArea {
+    background-color: #8f8e8e41;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  .robotMessage {
+    color: rgb(63, 241, 72);
+    font-size: 7px;
+  }
+
+  .msg {
+    background-color: #00000041;
+    border: 1px solid black;
+    margin: 3px;
+  }
+
+  .bot-msg {
+    color: rgb(129, 52, 52);
+  }

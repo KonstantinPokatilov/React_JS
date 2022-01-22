@@ -1,0 +1,11 @@
+.text {
+    color: #61dafb;
+    border: 1px solid #61dafb;
+    width: 170px;
+    height: 100px;
+}
+
+.text:hover {
+    color: violet;
+    border: 1px solid violet;
+}
